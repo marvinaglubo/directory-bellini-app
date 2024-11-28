@@ -1,0 +1,1 @@
+console.log('comp1/dir1/index1.js')

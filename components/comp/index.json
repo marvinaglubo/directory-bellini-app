@@ -1,0 +1,30 @@
+{
+  "type": "custom-component",
+  "name": "comp",
+  "nodeName": "comp",
+  "description": null,
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "marketplaceId": null,
+  "formControl": null,
+  "transclude": null,
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [],
+    "scripts": [
+      {
+        "id": "ju4H2iYGzvi_JZaJ8fI_0",
+        "name": "dir1"
+      }
+    ],
+    "stylesheets": []
+  },
+  "parentDirectoryId": null,
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

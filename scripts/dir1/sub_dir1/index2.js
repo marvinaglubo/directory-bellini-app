@@ -1,0 +1,1 @@
+console.log('dir1/sub_dir1/index2.js')

@@ -1,0 +1,1 @@
+console.log('comp1/index2.js')

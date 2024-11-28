@@ -1,0 +1,20 @@
+{
+  "type": "custom-component",
+  "name": "comp1",
+  "nodeName": null,
+  "description": null,
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "marketplaceId": null,
+  "formControl": null,
+  "transclude": null,
+  "styles": [],
+  "directories": null,
+  "parentDirectoryId": "FtIya-bP8-wNXEUO2CvzZ",
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

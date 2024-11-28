@@ -1,0 +1,1 @@
+console.log('dir2/index2.js')

@@ -1,0 +1,109 @@
+{
+  "name": "directory",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [
+      {
+        "id": "IBNSwa3M-2KcOtOS10men",
+        "name": "dir1"
+      },
+      {
+        "id": "Alw-OWjJMxMSmZLP7MoTh",
+        "name": "dir2"
+      }
+    ],
+    "components": [
+      {
+        "id": "FtIya-bP8-wNXEUO2CvzZ",
+        "name": "dir1"
+      }
+    ],
+    "pages": [
+      {
+        "id": "jX_2I1YOEscBQIg7AybBP",
+        "name": "dir1"
+      }
+    ],
+    "scripts": [
+      {
+        "id": "1UqM0cSzPsLkayUK3MAQi",
+        "name": "dir1"
+      },
+      {
+        "id": "ZHVEQwPdZ-8Lg8Sg7suUD",
+        "name": "dir2"
+      },
+      {
+        "id": "9Icf04Ob162uxkFWzf6hi",
+        "name": "sub_dir1",
+        "parentDirectoryId": "1UqM0cSzPsLkayUK3MAQi"
+      }
+    ],
+    "services": [
+      {
+        "id": "hDrnUbCIjbp1mLZ9x7mnb",
+        "name": "dir1"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "4g8WJlfzhxORA5e0mMpst",
+        "name": "dir1"
+      },
+      {
+        "id": "OQMgKlnwD-11Z6NHVRQpk",
+        "name": "dir2"
+      },
+      {
+        "id": "6f3zq0bvLq5L4sT076HYD",
+        "name": "sub_dir1",
+        "parentDirectoryId": "4g8WJlfzhxORA5e0mMpst"
+      }
+    ]
+  },
+  "externalScripts": [
+    {
+      "url": "https://cdn.statically.io/gh/marvinaglubo/Bellini-Public-Test-Files/refs/heads/main/scripts/sample-log.js",
+      "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
+      "properties": {
+        "type": "default",
+        "executionMode": "default",
+        "crossorigin": "anonymous",
+        "referrerpolicy": "default"
+      },
+      "order": 2
+    }
+  ],
+  "externalStylesheets": [],
+  "localScripts": [
+    {
+      "path": "dir2/https://cdn.statically.io/gh/marvinaglubo/Bellini-Public-Test-Files/refs/heads/main/scripts/sample-log.js",
+      "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
+      "properties": {
+        "type": "default",
+        "executionMode": "default",
+        "crossorigin": "anonymous",
+        "referrerpolicy": "default"
+      },
+      "order": 2
+    }
+  ],
+  "localStylesheets": []
+}
