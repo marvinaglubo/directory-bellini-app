@@ -7,9 +7,7 @@
   "variables": [],
   "bindings": [],
   "modules": [],
-  "marketplaceId": null,
   "formControl": null,
-  "transclude": null,
   "styles": [],
   "directories": {
     "assets": [],
@@ -27,7 +25,8 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "index2.js",
+      "path": "dir1/index2.js",
+      "parentDirectoryId": "ju4H2iYGzvi_JZaJ8fI_0",
       "order": 1
     },
     {
@@ -35,8 +34,7 @@
       "order": 2
     },
     {
-      "path": "dir1/index2.js",
-      "parentDirectoryId": "ju4H2iYGzvi_JZaJ8fI_0",
+      "path": "index2.js",
       "order": 1
     },
     {

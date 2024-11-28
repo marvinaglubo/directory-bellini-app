@@ -94,8 +94,14 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "index1.js",
-      "order": 3
+      "path": "dir1/index2.js",
+      "parentDirectoryId": "1UqM0cSzPsLkayUK3MAQi",
+      "order": 1
+    },
+    {
+      "path": "dir1/sub_dir1/index1.js",
+      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
+      "order": 1
     },
     {
       "path": "dir1/index1.js",
@@ -103,9 +109,18 @@
       "order": 2
     },
     {
-      "path": "dir1/index2.js",
-      "parentDirectoryId": "1UqM0cSzPsLkayUK3MAQi",
-      "order": 1
+      "path": "dir1/sub_dir1/index2.js",
+      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
+      "order": 2
+    },
+    {
+      "path": "index1.js",
+      "order": 3
+    },
+    {
+      "path": "dir2/index2.js",
+      "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
+      "order": 3
     },
     {
       "path": "index2.js",
@@ -115,21 +130,6 @@
       "path": "dir2/index1.js",
       "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
       "order": 1
-    },
-    {
-      "path": "dir2/index2.js",
-      "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
-      "order": 3
-    },
-    {
-      "path": "dir1/sub_dir1/index1.js",
-      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
-      "order": 1
-    },
-    {
-      "path": "dir1/sub_dir1/index2.js",
-      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
-      "order": 2
     }
   ],
   "localStylesheets": [
@@ -138,9 +138,8 @@
       "order": 4
     },
     {
-      "path": "dir1/index2.css",
-      "parentDirectoryId": "4g8WJlfzhxORA5e0mMpst",
-      "order": 1
+      "path": "dir2/index2.css",
+      "parentDirectoryId": "OQMgKlnwD-11Z6NHVRQpk"
     },
     {
       "path": "dir1/index1.css",
@@ -148,8 +147,9 @@
       "order": 2
     },
     {
-      "path": "dir2/index2.css",
-      "parentDirectoryId": "OQMgKlnwD-11Z6NHVRQpk"
+      "path": "dir1/sub_dir1/index1.css",
+      "parentDirectoryId": "6f3zq0bvLq5L4sT076HYD",
+      "order": 1
     },
     {
       "path": "dir2/index1.css",
@@ -161,8 +161,8 @@
       "order": 2
     },
     {
-      "path": "dir1/sub_dir1/index1.css",
-      "parentDirectoryId": "6f3zq0bvLq5L4sT076HYD",
+      "path": "dir1/index2.css",
+      "parentDirectoryId": "4g8WJlfzhxORA5e0mMpst",
       "order": 1
     },
     {
