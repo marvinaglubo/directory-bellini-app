@@ -25,6 +25,25 @@
   "parentDirectoryId": null,
   "externalScripts": [],
   "externalStylesheets": [],
-  "localScripts": [],
+  "localScripts": [
+    {
+      "path": "index2.js",
+      "order": 1
+    },
+    {
+      "path": "index1.js",
+      "order": 2
+    },
+    {
+      "path": "dir1/index2.js",
+      "parentDirectoryId": "ju4H2iYGzvi_JZaJ8fI_0",
+      "order": 1
+    },
+    {
+      "path": "dir1/index1.js",
+      "parentDirectoryId": "ju4H2iYGzvi_JZaJ8fI_0",
+      "order": 2
+    }
+  ],
   "localStylesheets": []
 }

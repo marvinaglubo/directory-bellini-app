@@ -94,16 +94,80 @@
   "externalStylesheets": [],
   "localScripts": [
     {
-      "path": "dir2/https://cdn.statically.io/gh/marvinaglubo/Bellini-Public-Test-Files/refs/heads/main/scripts/sample-log.js",
+      "path": "index1.js",
+      "order": 3
+    },
+    {
+      "path": "dir1/index1.js",
+      "parentDirectoryId": "1UqM0cSzPsLkayUK3MAQi",
+      "order": 2
+    },
+    {
+      "path": "dir1/index2.js",
+      "parentDirectoryId": "1UqM0cSzPsLkayUK3MAQi",
+      "order": 1
+    },
+    {
+      "path": "index2.js",
+      "order": 1
+    },
+    {
+      "path": "dir2/index1.js",
       "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
-      "properties": {
-        "type": "default",
-        "executionMode": "default",
-        "crossorigin": "anonymous",
-        "referrerpolicy": "default"
-      },
+      "order": 1
+    },
+    {
+      "path": "dir2/index2.js",
+      "parentDirectoryId": "ZHVEQwPdZ-8Lg8Sg7suUD",
+      "order": 3
+    },
+    {
+      "path": "dir1/sub_dir1/index1.js",
+      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
+      "order": 1
+    },
+    {
+      "path": "dir1/sub_dir1/index2.js",
+      "parentDirectoryId": "9Icf04Ob162uxkFWzf6hi",
       "order": 2
     }
   ],
-  "localStylesheets": []
+  "localStylesheets": [
+    {
+      "path": "index2.css",
+      "order": 4
+    },
+    {
+      "path": "dir1/index2.css",
+      "parentDirectoryId": "4g8WJlfzhxORA5e0mMpst",
+      "order": 1
+    },
+    {
+      "path": "dir1/index1.css",
+      "parentDirectoryId": "4g8WJlfzhxORA5e0mMpst",
+      "order": 2
+    },
+    {
+      "path": "dir2/index2.css",
+      "parentDirectoryId": "OQMgKlnwD-11Z6NHVRQpk"
+    },
+    {
+      "path": "dir2/index1.css",
+      "parentDirectoryId": "OQMgKlnwD-11Z6NHVRQpk"
+    },
+    {
+      "path": "dir1/sub_dir1/index2.css",
+      "parentDirectoryId": "6f3zq0bvLq5L4sT076HYD",
+      "order": 2
+    },
+    {
+      "path": "dir1/sub_dir1/index1.css",
+      "parentDirectoryId": "6f3zq0bvLq5L4sT076HYD",
+      "order": 1
+    },
+    {
+      "path": "index1.css",
+      "order": 5
+    }
+  ]
 }
